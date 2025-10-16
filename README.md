@@ -20,6 +20,7 @@ A curated collection of real‑world projects showcasing my skills in **SQL, Tab
 
 ## 🌟 Explore My Work
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
+[![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=github)](https://Dia-git.github.io)
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=postgresql)]()
 [![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-yellow?style=for-the-badge&logo=tableau)]()
 [![Python](https://img.shields.io/badge/Python-Analytics-blue?style=for-the-badge&logo=python)]()
