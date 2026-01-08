@@ -12,8 +12,6 @@ I’m a junior data analyst with a background in bioinformatics and academic pub
 
 **Interest Areas:** Health analytics · Bioinformatics · Public health · AI & Big Data in medicine
 
-📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
-
 ---
 
 ## 📊 Featured Data Analytics Projects
@@ -41,6 +39,7 @@ A curated collection of real‑world projects showcasing my skills in **SQL, Tab
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
+📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
 ---
 
 
