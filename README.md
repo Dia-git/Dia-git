@@ -6,9 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 
 👋 Hi, I’m Diana  
-🎯 Data Analyst | Bioinformatics MSc | Health & Life Sciences Data  
+🎯 Data Analyst | Bioinformatics MSc | Health & Life Sciences Data 🧬💻📊
 
-I’m a data analyst with a background in bioinformatics and academic publishing, focused on transforming complex health and biological data into clear, actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+I’m a junior data analyst with a background in bioinformatics and academic publishing, focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+
+**Interest Areas:** Health analytics · Bioinformatics · Public health · AI & Big Data in medicine
+
+📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
 
 ---
 
@@ -30,26 +34,20 @@ Designed and built a responsive multi-page website to learn core web development
 
 ---
 
-### 🔧 DataCamp Mini Projects (Ongoing)  
-**Tools:** SQL, R, Python  
-A growing collection of short projects focused on data cleaning, exploratory analysis, and query optimization using real-world practice datasets.
 
-🔗 View projects → https://github.com/Dia-git/Data-analysis-portfolio
+## 🚀 **View My Full Data Analytics Portfolio → 🔗[Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
+A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
 
----
-
-## 🛠️ Core Tools
-SQL · Excel · Tableau · R · Python  
+### 🛠️ Core Tools
+SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
 ---
 
-## 🌱 Currently
+
+## 🔧 *DataCamp Mini Projects (Ongoing)*
+📚 **Currently Learning:** AI • Python • SQL • R • Tableau • Bioconductor
 - Expanding SQL and Python analytics projects  
 - Building health-focused data case studies
-
-🚀 **View My Full Data Analytics Portfolio → [Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
-A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**. 
-
 
 ---
 
