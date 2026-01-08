@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 I’m a **junior data analyst** with a background in **bioinformatics** and **academic publishing** (*Data-driven Publishing Specialist in AI & Big Data for Medicine & Public Health*), focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
 
-**Interest Areas:** Health analytics · Bioinformatics · Public health · AI & Big Data in medicine
+**Interest Areas:** Health analytics · Bioinformatics / Computational Biology · Public health · AI & Big Data in medicine
 
 ---
 
@@ -38,7 +38,7 @@ Designed and built a responsive multi-page website to learn core web development
 
 
 ## 🚀 **View My Full Data Analytics Portfolio → 🔗[Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
-> A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
+> A curated collection of projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
 
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
