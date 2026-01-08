@@ -21,7 +21,7 @@ I’m a **junior data analyst** with a background in **bioinformatics** and **ac
 **Tools:** SQL, Excel, Tableau  
 Analyzed real-world sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. Built interactive Tableau dashboards to communicate insights clearly to non-technical stakeholders.
 
-🔗 View project → https://github.com/Dia-git/Brainstation-DA
+🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
 
 
 ### 🔹 🔹 🔹
@@ -31,7 +31,7 @@ Analyzed real-world sleep and health data to uncover relationships between lifes
 **Tools:** HTML, CSS, Bash  
 Designed and built a responsive multi-page website to learn core web development concepts, layout design, and accessibility principles.
 
-🔗 View project → https://github.com/Dia-git/html
+🔗 View project → https://github.com/Dia-git/bash-html-css
 
 ***
 
