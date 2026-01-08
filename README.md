@@ -5,47 +5,60 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
 👋 Hi, I’m Diana  
 🎯 Data Analyst | Bioinformatics MSc | Health & Life Sciences Data  
 
-I’m a junior data analyst with a background in bioinformatics, focused on transforming complex biological and health data into clear, actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+I’m a data analyst with a background in bioinformatics and academic publishing, focused on transforming complex health and biological data into clear, actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
 
 ---
 
 ## 📊 Featured Data Analytics Projects
 
-### 💤 Sleep Health Analysis  
+### 💤 Sleep Health Data Analysis (BrainStation Capstone)  
 **Tools:** SQL, Excel, Tableau  
-Analyzed sleep health metrics to identify relationships between sleep quality and lifestyle factors. Built interactive Tableau dashboards to communicate trends and correlations clearly to non-technical audiences.
+Analyzed real-world sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. Built interactive Tableau dashboards to communicate insights clearly to non-technical stakeholders.
 
-🔗 View project → [Sleep Health Analysis Repository](https://github.com/Dia-git/Data-analysis-portfolio)
+🔗 View project → https://github.com/Dia-git/Brainstation-DA
 
 ---
 
-### 🧬 Bioinformatics & Health Data Projects  
-**Tools:** R, Bioconductor, Python  
-Applied statistical analysis and data wrangling techniques to biological datasets, focusing on reproducibility and clear documentation.
+### 🌐 HTML & CSS Portfolio Website (London 42)  
+**Tools:** HTML, CSS, Bash  
+Designed and built a responsive multi-page website to learn core web development concepts, layout design, and accessibility principles.
 
-🔗 View projects → [Bioinformatics Repositories](https://github.com/Dia-git)
+🔗 View project → https://github.com/Dia-git/html
+
+---
+
+### 🔧 DataCamp Mini Projects (Ongoing)  
+**Tools:** SQL, R, Python  
+A growing collection of short projects focused on data cleaning, exploratory analysis, and query optimization using real-world practice datasets.
+
+🔗 View projects → https://github.com/Dia-git/Data-analysis-portfolio
 
 ---
 
 ## 🛠️ Core Tools
-- **SQL** – data extraction, joins, transformations  
-- **Excel** – data cleaning, EDA, reporting  
-- **Tableau** – dashboards, storytelling with data  
-- **R & Python** – data wrangling, analysis, visualization  
+SQL · Excel · Tableau · R · Python  
 
 ---
 
 ## 🌱 Currently
-- Deepening skills in **Python & SQL**
-- Expanding portfolio with health-focused analytics projects
+- Expanding SQL and Python analytics projects  
+- Building health-focused data case studies
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/diana-nicuțari-92274387)
+🚀 **View My Full Data Analytics Portfolio → [Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
+A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**. 
 
+
+---
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/diananicu)  
+
+ ♀️ Pronouns: *She/Her*
+ 
 🎮 Fun fact: Big fan of *Ghost of Tsushima*
+
 
 
 <!---
