@@ -7,15 +7,15 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m Diana  
 
-🎯 Data Analyst | Bioinformatics MSc | Health & Life Sciences Data 🧬 💻 📊
+🎯 Data Analyst | Bioinformatics MSc | Biology BSc | Health & Life Sciences Data 🧬 💻 📊
 
-I’m a junior data analyst with a background in bioinformatics and academic publishing, focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+I’m a **junior data analyst** with a background in **bioinformatics** and **academic publishing** (*Data-driven Publishing Specialist in AI & Big Data for Medicine & Public Health*), focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
 
 **Interest Areas:** Health analytics · Bioinformatics · Public health · AI & Big Data in medicine
 
 ---
 
-## 📊 Featured Data Analytics Projects
+# 📊 Featured Data Analytics Projects
 
 ### 💤 Sleep Health Data Analysis (BrainStation Capstone)  
 **Tools:** SQL, Excel, Tableau  
@@ -23,7 +23,9 @@ Analyzed real-world sleep and health data to uncover relationships between lifes
 
 🔗 View project → https://github.com/Dia-git/Brainstation-DA
 
----
+
+### 🔹 🔹 🔹
+
 
 ### 🌐 HTML & CSS Portfolio Website (London 42)  
 **Tools:** HTML, CSS, Bash  
@@ -31,17 +33,20 @@ Designed and built a responsive multi-page website to learn core web development
 
 🔗 View project → https://github.com/Dia-git/html
 
----
+***
+
 
 
 ## 🚀 **View My Full Data Analytics Portfolio → 🔗[Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
-A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
+> A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
 
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
+### 📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
+
 ---
+
 
 
 ## 🔧 *DataCamp Mini Projects (Ongoing)*
