@@ -43,7 +43,7 @@ Designed and built a responsive multi-page website to learn core web development
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-> ### 📄 **View my full CV →** https://github.com/Dia-git/diana-nicutari-cv
+> ### 📄 **View my full resume →** https://dia-git.github.io/
 
 ---
 
