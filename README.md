@@ -4,6 +4,52 @@ Dia-git/Dia-git is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
+👋 Hi, I’m Diana  
+🎯 Data Analyst | Bioinformatics MSc | Health & Life Sciences Data  
+
+I’m a junior data analyst with a background in bioinformatics, focused on transforming complex biological and health data into clear, actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+
+---
+
+## 📊 Featured Data Analytics Projects
+
+### 💤 Sleep Health Analysis  
+**Tools:** SQL, Excel, Tableau  
+Analyzed sleep health metrics to identify relationships between sleep quality and lifestyle factors. Built interactive Tableau dashboards to communicate trends and correlations clearly to non-technical audiences.
+
+🔗 View project → [Sleep Health Analysis Repository](https://github.com/Dia-git/Data-analysis-portfolio)
+
+---
+
+### 🧬 Bioinformatics & Health Data Projects  
+**Tools:** R, Bioconductor, Python  
+Applied statistical analysis and data wrangling techniques to biological datasets, focusing on reproducibility and clear documentation.
+
+🔗 View projects → [Bioinformatics Repositories](https://github.com/Dia-git)
+
+---
+
+## 🛠️ Core Tools
+- **SQL** – data extraction, joins, transformations  
+- **Excel** – data cleaning, EDA, reporting  
+- **Tableau** – dashboards, storytelling with data  
+- **R & Python** – data wrangling, analysis, visualization  
+
+---
+
+## 🌱 Currently
+- Deepening skills in **Python & SQL**
+- Expanding portfolio with health-focused analytics projects
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/diana-nicuțari-92274387)
+
+🎮 Fun fact: Big fan of *Ghost of Tsushima*
+
+
+<!---
+THIS IS NOT VISIBLE: PREVIOUS PROFILE (November 2025)
 👋 Hi, I’m Diana  
 🎯 Data Analyst | Bioinformatics MSc | Transforming Data into Insightful Stories
 
@@ -51,11 +97,11 @@ A curated collection of real‑world projects showcasing my skills in **SQL, Tab
 
 📊 *Passionate about making data insights accessible and meaningful.*  
 🌱 *Always learning, always curious.*  
+==================================
 
-<!---
 Bonus recruiter appeal tips
 Pin diverse repos: one each for data cleaning (SQL), visualization (Tableau), scripting (Python/R), and creative work (HTML + CSS).
 Add visuals: small screenshots or GIFs of dashboards — they increase engagement dramatically.
-Commit weekly: steady commits show consistency.
+Commit weekly: steady commits show consistency. 
 Custom domain or GitHub Pages site: link to your portfolio page (like diananicutari.github.io).
 --->
