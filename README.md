@@ -45,7 +45,9 @@ Designed and built a responsive multi-page website to learn core web development
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-📊 Tableau Public: https://public.tableau.com/app/profile/diana.nicutari/vizzes
+📊 Tableau Public: https://public.tableau.com/app/profile/diana.nicutari/vizzes  
+📚 DataCamp Portfolio: https://www.datacamp.com/portfolio/diananicutari
+
 📄 **View my full resume**  → https://Dia-git.github.io
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
