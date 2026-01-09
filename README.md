@@ -1,4 +1,3 @@
-
 <!---
 Dia-git/Dia-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -9,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 🎯 Junior Data Analyst | Bioinformatics MSc | Biology BSc | Health & Life Sciences Data 🧬 💻 📊
 
-I’m a **junior data analyst** with a background in **bioinformatics** and **academic publishing** (*Data-driven Publishing Specialist in AI & Big Data for Medicine & Public Health*), focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
+I’m a **junior data analyst** with a background in **bioinformatics** and **academic publishing** (*Data-driven Publishing Specialist in AI & Big Data*), focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
 
 **Interest Areas:** Health analytics · Bioinformatics / Computational Biology · Public health · AI & Big Data in medicine
 
@@ -19,7 +18,9 @@ I’m a **junior data analyst** with a background in **bioinformatics** and **ac
 
 ### 💤 Sleep Health Data Analysis (BrainStation Capstone)  
 **Tools:** SQL, Excel, Tableau  
-Analyzed sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. Built interactive Tableau dashboards to communicate insights clearly to non-technical stakeholders.
+Analyzed sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. 
+**Key outcome:** Identified clear patterns linking physical activity, stress, and occupation with sleep quality, communicated through interactive Tableau dashboards for non-technical stakeholders.
+
 
 🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
 
@@ -29,7 +30,7 @@ Analyzed sleep and health data to uncover relationships between lifestyle factor
 
 ### 🌐 HTML & CSS Portfolio Website (London 42)  
 **Tools:** HTML, CSS, Bash  
-Designed and built a responsive multi-page website to learn core web development concepts, layout design, and accessibility principles.
+Designed and built a responsive multi-page website to learn core web development concepts, layout design, and strengthen skills in **data communication**, supporting clear presentation of analytical work.
 
 🔗 View project → https://github.com/Dia-git/bash-html-css
 
@@ -37,22 +38,27 @@ Designed and built a responsive multi-page website to learn core web development
 
 
 
-## 🚀 **View My Full Data Analytics Portfolio → 🔗[Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)** 
-> A curated collection of projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**
+## 🚀 **View My Full Data Analytics Portfolio** 
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
+> A curated collection of end-to-end analytics projects with clear problem statements, methods, and insights, showcasing my skills in **SQL, Tableau, Excel, R, and Python**
 
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-📄 **View my full resume**  → [![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=github)](https://Dia-git.github.io)
+📊 Tableau Public: https://public.tableau.com/app/profile/diana.nicutari/vizzes
+📄 **View my full resume**  → https://Dia-git.github.io
 
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
+[![GitHub Pages](https://img.shields.io/badge/Website-Live-green?logo=github)](https://dia-git.github.io)
 ---
 
 
 
 ## 🔧 *DataCamp Mini Projects (Ongoing)*
 📚 **Currently Learning:** AI • Python • SQL • R • Tableau • Bioconductor
-- Expanding SQL and Python analytics projects  
-- Building health-focused data case studies
+- Practising data cleaning, joins, aggregations, and query optimisation  
+- Applying R and Python to exploratory analysis and visualisation  
+- Building small health- and research-focused case studies
 
 ---
 
@@ -61,6 +67,7 @@ SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (das
  ♀️ Pronouns: *She/Her*
  
 🎮 Fun fact: Big fan of *Ghost of Tsushima*
+
 
 
 
