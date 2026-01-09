@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m Diana  
 
-🎯 Data Analyst | Bioinformatics MSc | Biology BSc | Health & Life Sciences Data 🧬 💻 📊
+🎯 Junior Data Analyst | Bioinformatics MSc | Biology BSc | Health & Life Sciences Data 🧬 💻 📊
 
 I’m a **junior data analyst** with a background in **bioinformatics** and **academic publishing** (*Data-driven Publishing Specialist in AI & Big Data for Medicine & Public Health*), focused on transforming complex health and biological data into clear data stories with actionable insights. I enjoy working across the full analytics workflow, from data cleaning and querying to visualization and storytelling.
 
@@ -43,7 +43,7 @@ Designed and built a responsive multi-page website to learn core web development
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-> ### 📄 **View my full resume →** https://dia-git.github.io/
+📄 **View my full resume**  → [![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=github)](https://Dia-git.github.io)
 
 ---
 
@@ -113,8 +113,8 @@ A curated collection of real‑world projects showcasing my skills in **SQL, Tab
 
 ---
 
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dia-git&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dia-git&layout=compact&theme=radical)
+[![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dia-git&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dia-git&layout=compact&theme=radical)
 
 ---
 
