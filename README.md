@@ -79,6 +79,13 @@ THIS IS NOT VISIBLE: PREVIOUS PROFILE (November 2025)
 🚀 **View My Data Analytics Portfolio → [Data Analysis Projects](https://github.com/Dia-git/Data-analysis-portfolio)**  
 A curated collection of real‑world projects showcasing my skills in **SQL, Tableau, Excel, R, and Python**.
 
+## 🧑‍💻 Featured Data Projects
+
+- **Cancer Genomics Dashboard:** Interactive plots summarizing oncogene expression trends.  
+- **Journal Data Insights:** Automated analysis of publication trends and citation patterns.  
+- **Bioinformatics Pipeline Demo:** Example code for analyzing biological sequence data.
+
+> You can check them out under the [Projects section](https://github.com/Dia-git/Data-analysis-portfolio).
 
 ## 🌟 Explore My Work
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
