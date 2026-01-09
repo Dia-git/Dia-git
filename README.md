@@ -35,6 +35,17 @@ Designed and built a responsive multi-page website to learn core web development
 
 🔗 View project → https://github.com/Dia-git/bash-html-css
 
+### 🔹 🔹 🔹
+
+### 🧼 On the Importance of Handwashing | R / DataCamp Project
+
+**Tools:** R · tidyverse · ggplot2
+
+Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
+Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
+
+🔗 View project → https://github.com/Dia-git/datacamp-handwashing-analysis-r
+
 ***
 
 ## 🔧 *DataCamp Mini Projects (Ongoing)*
