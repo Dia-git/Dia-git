@@ -21,6 +21,7 @@ I’m a **junior data analyst** with a background in **bioinformatics** and **ac
 Analyzed sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. 
 **Key outcome:** Identified clear patterns linking physical activity, stress, and occupation with sleep quality, communicated through interactive Tableau dashboards for non-technical stakeholders.
 
+📊 Tableau Dashboard: https://public.tableau.com/app/profile/diana.nicutari/vizzes  
 
 🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
 
@@ -36,7 +37,15 @@ Designed and built a responsive multi-page website to learn core web development
 
 ***
 
+## 🔧 *DataCamp Mini Projects (Ongoing)*
+📚 **Currently Learning:** AI • Python • SQL • R • Tableau • Bioconductor
+- Practising data cleaning, joins, aggregations, and query optimisation  
+- Applying R and Python to exploratory analysis and visualisation  
+- Building small health- and research-focused case studies
 
+📚 DataCamp Portfolio: https://www.datacamp.com/portfolio/diananicutari
+
+---
 
 ## 🚀 **View My Full Data Analytics Portfolio** 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Data%20Analysis%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dia-git/Data-analysis-portfolio)
@@ -45,24 +54,13 @@ Designed and built a responsive multi-page website to learn core web development
 ### 🛠️ Core Tools
 SQL (data extraction & transformation) · Excel (cleaning & EDA) · Tableau (dashboards & storytelling) · R (wrangling & viz) · Python (pandas workflows) · Health & bioinformatics data literacy
 
-📊 Tableau Public: https://public.tableau.com/app/profile/diana.nicutari/vizzes  
-📚 DataCamp Portfolio: https://www.datacamp.com/portfolio/diananicutari
-
 📄 **View my full resume**  → https://Dia-git.github.io
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/diana.nicutari/vizzes)
 [![GitHub Pages](https://img.shields.io/badge/Website-Live-green?logo=github)](https://dia-git.github.io)
----
-
-
-
-## 🔧 *DataCamp Mini Projects (Ongoing)*
-📚 **Currently Learning:** AI • Python • SQL • R • Tableau • Bioconductor
-- Practising data cleaning, joins, aggregations, and query optimisation  
-- Applying R and Python to exploratory analysis and visualisation  
-- Building small health- and research-focused case studies
 
 ---
+
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/diananicu)  
 
