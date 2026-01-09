@@ -21,7 +21,7 @@ I’m a **junior data analyst** with a background in **bioinformatics** and **ac
 Analyzed sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. 
 **Key outcome:** Identified clear patterns linking physical activity, stress, and occupation with sleep quality, communicated through interactive Tableau dashboards for non-technical stakeholders.
 
-📊 Tableau Dashboard: https://public.tableau.com/app/profile/diana.nicutari/vizzes  
+📊 [**Tableau Dashboard**](https://public.tableau.com/app/profile/diana.nicutari/viz/Sleep_health_and_lifestyle_dataset_workbook/Dashboard1)
 
 🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
 
