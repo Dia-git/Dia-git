@@ -21,6 +21,8 @@ I’m a **junior data analyst** with a background in **bioinformatics** and **ac
 Analyzed sleep and health data to uncover relationships between lifestyle factors, occupation, and sleep quality. 
 **Key outcome:** Identified clear patterns linking physical activity, stress, and occupation with sleep quality, communicated through interactive Tableau dashboards for non-technical stakeholders.
 
+<img width="386" height="266" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/82ff0159-b87a-401c-a56b-1e6db8e13cf2" />
+
 📊 [**Tableau Dashboard**](https://public.tableau.com/app/profile/diana.nicutari/viz/Sleep_health_and_lifestyle_dataset_workbook/Dashboard1)
 
 🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
@@ -34,7 +36,7 @@ Analyzed sleep and health data to uncover relationships between lifestyle factor
 Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
 Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
 
-<img width="350" height="350" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
+<img width="300" height="250" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
 
 🔗 View project → https://github.com/Dia-git/datacamp-handwashing-analysis-r
 
@@ -44,7 +46,7 @@ Used yearly data to compare clinics and monthly data to evaluate a before/after 
 **Tools:** HTML, CSS, Bash  
 Designed and built a responsive multi-page website to learn core web development concepts, layout design, and strengthen skills in **data communication**, supporting clear presentation of analytical work.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
 
 🔗 View project → https://github.com/Dia-git/bash-html-css
 
