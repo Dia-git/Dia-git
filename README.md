@@ -25,18 +25,7 @@ Analyzed sleep and health data to uncover relationships between lifestyle factor
 
 🔗 View project → https://github.com/Dia-git/sleep-health-analysis-sql-tableau
 
-
 ### 🔹 🔹 🔹
-
-
-### 🌐 HTML & CSS Portfolio Website (London 42)  
-**Tools:** HTML, CSS, Bash  
-Designed and built a responsive multi-page website to learn core web development concepts, layout design, and strengthen skills in **data communication**, supporting clear presentation of analytical work.
-
-🔗 View project → https://github.com/Dia-git/bash-html-css
-
-### 🔹 🔹 🔹
-
 
 ### 🧼 On the Importance of Handwashing | R / DataCamp Project
 
@@ -45,7 +34,20 @@ Designed and built a responsive multi-page website to learn core web development
 Reproduced Ignaz Semmelweis’ historical analysis to quantify the impact of handwashing on maternal mortality at the Vienna General Hospital.
 Used yearly data to compare clinics and monthly data to evaluate a before/after intervention in Clinic 1, reflecting real-world data limitations and sound analytical design.
 
+<img width="350" height="350" alt="Monthly Death Proportion Before vs After Handwashing" src="https://github.com/user-attachments/assets/26ae046d-fa42-458c-9bdb-2ddeb1594064" />
+
 🔗 View project → https://github.com/Dia-git/datacamp-handwashing-analysis-r
+
+### 🔹 🔹 🔹
+
+### 🌐 HTML & CSS Portfolio Website (London 42)  
+**Tools:** HTML, CSS, Bash  
+Designed and built a responsive multi-page website to learn core web development concepts, layout design, and strengthen skills in **data communication**, supporting clear presentation of analytical work.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4ba936c8-9cbe-4e4b-b05d-f98436db86dc" />
+
+🔗 View project → https://github.com/Dia-git/bash-html-css
+
 
 ***
 
