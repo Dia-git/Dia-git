@@ -51,6 +51,18 @@ Used yearly data to compare clinics and monthly data to evaluate a before/after 
 
 ### 🔹 🔹 🔹
 
+
+### 🎓 42 London: Discovery Piscine (Python & Bash)  
+**Tools:** Python 3, Bash/Zsh, Vim  
+
+Completed an intensive peer-to-peer discovery week at 42 London, mastering the fundamentals of Python and shell environment interactions.  
+**Key outcome:** Successfully navigated 5 modules ranging from basic types to complex list transformations and CLI parameter handling, including debugging shell-specific "History Expansion" conflicts.  
+
+🔗 [**View Project**](https://github.com/Dia-git/42-discovery-piscine-python)
+
+
+### 🔹 🔹 🔹
+
 ### 🌐 HTML & CSS Portfolio Website (London 42)  
 **Tools:** HTML, CSS, Bash  
 Designed and built a responsive multi-page website to learn core web development concepts, layout design, and strengthen skills in **data communication**, supporting clear presentation of analytical work.
