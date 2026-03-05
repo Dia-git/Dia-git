@@ -29,6 +29,15 @@ Analyzed sleep and health data to uncover relationships between lifestyle factor
 
 ### 🔹 🔹 🔹
 
+### ⚡ Energy Market Intelligence & ML (UN Data Analysis)  
+**Tools:** Python (Pandas, Scikit-learn, Statsmodels), Matplotlib, Seaborn  
+Analyzed global energy transition velocity using the UN Energy Statistics database, moving from raw ETL to predictive modeling.  
+**Key outcome:** Developed a **K-Means Clustering** model to segment global energy markets and applied **Holt-Winters Exponential Smoothing** to forecast UK wind production through 2030, delivering a data-backed business case for renewable infrastructure.
+
+🔗 [**View Project**](https://github.com/Dia-git/energy-market-intelligence-ml)
+
+### 🔹 🔹 🔹
+
 ### 🧼 On the Importance of Handwashing | R / DataCamp Project
 
 **Tools:** R · tidyverse · ggplot2
